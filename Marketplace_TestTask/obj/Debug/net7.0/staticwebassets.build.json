@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kl/T0WfM/rM3o4e9dlE5WqBXUfEs75KGZSWEYNkNVOQ=",
+  "Source": "Marketplace.WebAPI",
+  "BasePath": "_content/Marketplace.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

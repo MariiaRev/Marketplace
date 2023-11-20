@@ -1,0 +1,17 @@
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\bin\Debug\net7.0\Marketplace.Core.deps.json
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\bin\Debug\net7.0\Marketplace.Core.dll
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\bin\Debug\net7.0\Marketplace.Core.pdb
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\bin\Debug\net7.0\Contracts.dll
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\bin\Debug\net7.0\Marketplace.DataAccessLayer.dll
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\bin\Debug\net7.0\Marketplace.DataAccessLayer.pdb
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\obj\Debug\net7.0\Marketplace.Core.csproj.AssemblyReference.cache
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\obj\Debug\net7.0\Marketplace.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\obj\Debug\net7.0\Marketplace.Core.AssemblyInfoInputs.cache
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\obj\Debug\net7.0\Marketplace.Core.AssemblyInfo.cs
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\obj\Debug\net7.0\Marketplace.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\obj\Debug\net7.0\Marketplace.Core.csproj.CopyComplete
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\obj\Debug\net7.0\Marketplace.Core.dll
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\obj\Debug\net7.0\refint\Marketplace.Core.dll
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\obj\Debug\net7.0\Marketplace.Core.pdb
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.Core\obj\Debug\net7.0\ref\Marketplace.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\bin\Debug\net7.0\Marketplace.DataAccessLayer.deps.json
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\bin\Debug\net7.0\Marketplace.DataAccessLayer.dll
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\bin\Debug\net7.0\Marketplace.DataAccessLayer.pdb
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\bin\Debug\net7.0\Contracts.dll
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\obj\Debug\net7.0\Marketplace.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\obj\Debug\net7.0\Marketplace.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\obj\Debug\net7.0\Marketplace.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\obj\Debug\net7.0\Marketplace.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\obj\Debug\net7.0\Marketplace.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\obj\Debug\net7.0\Marketplace.DataAccessLayer.csproj.CopyComplete
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\obj\Debug\net7.0\Marketplace.DataAccessLayer.dll
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\obj\Debug\net7.0\refint\Marketplace.DataAccessLayer.dll
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\obj\Debug\net7.0\Marketplace.DataAccessLayer.pdb
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\obj\Debug\net7.0\ref\Marketplace.DataAccessLayer.dll
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\bin\Debug\net7.0\Marketplace.DataAccessLayer.runtimeconfig.json
+C:\Users\Mariia\Desktop\Mariia\projects\Marketplace_TestTask\Marketplace.DataAccessLayer\obj\Debug\net7.0\Marketplace.DataAccessLayer.genruntimeconfig.cache
